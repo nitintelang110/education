@@ -74,7 +74,7 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                203 Fake St. Mountain View, BULDHANA, INDIA
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                nitintelang110@gmail.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright ©2024 All rights reserved | This template is made with <i className='fa fa-heart'></i> by ntcoder
         </p>
       </div>
     </>
